@@ -15,4 +15,4 @@ def fibonacciRange(start, iterations):
         print (actualNumber)
 
         
-fibonacciRange(100, 100)
+fibonacciRange(0, 20)
